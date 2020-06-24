@@ -13,3 +13,5 @@ Das ist eine Beschreibung des Charakters. Ich habe zwar keine Ahnung, um welchen
 > I’ve always been more interested> in the future than in the past.
 > I’ve always been more interested> in the future than in the past.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Logo_BILD.svg/100px-Logo_BILD.svg.png"/>
+
